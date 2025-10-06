@@ -15,7 +15,9 @@ It captures live video from your webcam and predicts emotions like **Happy, Sad,
   pip install -r requirements.txt
   ```
 ## ▶️ Run
-python realtimedetection.py
+```bash
+  python realtimedetection.py
+  ```
 
 ## 📂 Files
 
